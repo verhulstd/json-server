@@ -2,6 +2,9 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
+  "vrienden" : [
+    {"id": 1, "naam" : "Els"},{"id": 1, "naam" : "Cindy"},{"id": 1, "naam" : "Bart"},{"id": 1, "naam" : "Gert"}
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
